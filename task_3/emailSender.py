@@ -4,7 +4,7 @@ import ssl    #security layer
 import smtplib
 
 email_sender="senderm313@gmail.com"
-email_password="majz ldbj huuu wpqr"
+email_password="your password"
 email_reciever="durgeshkyadav04@gmail.com"
 
 subject="this is automated email sender"
